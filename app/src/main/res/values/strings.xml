@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HW1_RoyDafna</string>
+    <string name="homework_assignment_1_nroy_dafna">Homework Assignment 1\nRoy Dafna</string>
+    <string name="result">Result</string>
+    <string name="calculate">Calculate</string>
+    <string name="left_number">Left Number</string>
+    <string name="right_number">Right Number</string>
+</resources>
